@@ -21,6 +21,7 @@ float: left;
 width: 50%;
 padding-top: 0;
 height: 50%;
+margin-right: 0;
 }
 .travel{
   width: 100%;
@@ -55,4 +56,5 @@ height: 50%;
   line-height: 3.4;
   float: right;
   width: 50%;
+  margin-left: 0px;
 }
