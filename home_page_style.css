@@ -1,0 +1,46 @@
+.header_photo{
+width: 100%;
+padding: 0;
+margin: 0;
+
+}
+.baked_goods{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.hoops_section{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.airbnb_logo{
+
+}
+.j_page_container_1{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.j_header_container{
+  width: 100%;
+  padding:0;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  padding-top: 100px;
+  color: rgb(255,255,255);
+  font-family: Avenir Next;
+}
+.j_page_container{
+  padding: 0;
+  margin:0;
+}
+.info{
+  padding: 0;
+  margin: 0;
+  height: 100px;
+  text-align: center;
+  font-family: Avenir Next;
+  line-height: 2.4;
+}
