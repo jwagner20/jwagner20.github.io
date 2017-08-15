@@ -15,7 +15,10 @@ margin: 0;
   margin: 0;
 }
 .airbnb_logo{
-
+float: left;
+width: 500px;
+padding-top: 0;
+height: 300px;
 }
 .j_page_container_1{
   width: 100%;
@@ -42,9 +45,7 @@ margin: 0;
   height: 100px;
   text-align: center;
   font-family: Avenir Next;
-  line-height: 2.4;
-  background-image: url('http://s3.r29static.com//bin/entry/274/x,80/1255000/image.jpg');
-  background-position: center;
-  background-size: auto;
-  opacity: 50%;
+  line-height: 3.4;
+  float: right;
+  width: 600px;
 }
