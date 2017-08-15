@@ -2,23 +2,30 @@
 width: 100%;
 padding: 0;
 margin: 0;
-
+height: 75%;
 }
 .baked_goods{
   width: 100%;
   padding: 0;
   margin: 0;
+  height:75%;
 }
 .hoops_section{
   width: 100%;
   padding: 0;
   margin: 0;
+  height: 50%
 }
 .airbnb_logo{
 float: left;
 width: 50%;
 padding-top: 0;
 height: 50%;
+}
+.travel{
+  width: 100%;
+  padding: 0;
+  margin: 0;
 }
 .j_page_container_1{
   width: 100%;
@@ -47,5 +54,5 @@ height: 50%;
   font-family: Avenir Next;
   line-height: 3.4;
   float: right;
-  width: 600px;
+  width: 50%;
 }
