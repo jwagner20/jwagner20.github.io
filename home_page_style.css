@@ -5,6 +5,7 @@
   max-width: 960px;
   margin: 0 auto;
 }
+
 /*this is a comment to let me know these are the actual sections of my site*/
 .info-bar a.icon{
   display: inline-block;
@@ -19,11 +20,19 @@
 }
 .info-bar .one{
   background-image: url("https://www.wired.com/images/icons/social-mail-square-black.svg");
+  position: absolute;
 }
 .info-bar .two{
-  background-image: url("http://www.monarchschool.org/sites/monarchschool.org/files/LInkedInLogo30x30.jpg")
-}
+  background-image: url("http://www.monarchschool.org/sites/monarchschool.org/files/LInkedInLogo30x30.jpg");
+  position:absolute;
 
+}
+.info-bar .three{
+  background-image: url("http://www.netlinknbn.com/images/icon-printer.png");
+}
+.info-bar{
+
+}
 a{
   text-decoration: none;
   color: #b4b4b4;
@@ -53,10 +62,10 @@ section.module p:last-child {
   margin-bottom: 0;
 }
 section.module.content {
-  padding: 40px 0;
+  padding: 10px 0;
 }
 section.module.parallax {
-  height: 800px;
+  height: 700px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -75,16 +84,19 @@ section.module.parallax-1 {
   background-image: url("https://image.ibb.co/cjhwj5/guard_dog.jpg");
 }
 section.module.parallax-2 {
-  background-image: url("https://youth1.com/sites/default/files/brandon-roy-noah-graham-.jpg");
+  background-image: url("https://torontoism.com/images/2015/07/airbnb-shelves.jpg");
 }
 section.module.parallax-3 {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/19/be/bd/19bebd23865596bba0ba89bcc9ad4289.jpg");
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/18/70/29/1870296d897dca2a5fa8918c90168604.jpg");
 }
 section.module.parallax-4{
   background-image: url("https://image.ibb.co/m418Wk/food_thailand1.jpg")
 }
 section.module.parallax-5{
-  background-image: url("http://traveloregon.com/content/uploads/2016/10/MtHoodVillages-07-2000.jpg");
+  background-image: url("http://media.oregonlive.com/education_impact/photo/ucla-oregon-basketball-d1b6bc9868ed80a1.jpg");
+}
+section.module.parallax-6{
+  background-image: url("https://image.ibb.co/h27oHQ/scooter_chiangmai.jpg");
 }
 @media all and (min-width: 600px) {
   section.module h2 {
